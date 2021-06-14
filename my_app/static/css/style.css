@@ -1,0 +1,19 @@
+h1{
+    color:#1f2bd4;
+    
+}
+
+body{
+    background-color: lightblue;
+}
+
+label {
+    font-weight: bold;
+}
+
+.comment{
+    background-color: rgb(18, 189, 241);
+    padding:10px;
+    margin:10px;
+    border-radius: 10px;
+}
